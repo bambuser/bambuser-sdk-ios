@@ -13,7 +13,7 @@
 
 This is a public distribution repository for the Bambuser iOS SDK.
 
-For information about installation, usage etc., please visit the [Developer Portal][Portal].
+For information about installation, usage etc., please refer to the [Bambuser Live Streaming SDK Documentation][Docs].
 
 
-[Portal]: https://dashboard.bambuser.com/developer
+[Docs]: https://bambuser.com/docs/
