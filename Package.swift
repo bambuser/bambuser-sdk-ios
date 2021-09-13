@@ -16,11 +16,11 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BambuserBroadcaster",
-            url: "https://dist.bambuser.com/ios_spm/libbambuser-ios-broadcaster-1.0.2-210518.zip",
-            checksum: "9da746a7cc04b722bde3fa3cfaa90eb9b399dc359dbcd89b147aa01f7767351e"),
+            url: "https://dist.bambuser.com/ios_spm/libbambuser-ios-broadcaster-1.0.3-210913.zip",
+            checksum: "8f749e04977d4f7875c3bd1c2850d5107ebfb34d10aed63ce7f7ea1381be0f32"),
         .binaryTarget(
             name: "BambuserPlayer",
-            url: "https://dist.bambuser.com/ios_spm/libbambuser-ios-player-1.0.2-210518.zip",
-            checksum: "904deae9a1535a9c5bda68d4e41a5174759df88621fdacf2e5ed3ae14ebb6c9a")
+            url: "https://dist.bambuser.com/ios_spm/libbambuser-ios-player-1.0.3-210913.zip",
+            checksum: "33685a5c0e391bb6aff5544fe3f54b4ea5f7ddf312b47c6554a1aa6cbb2f6354")
     ]
 )
